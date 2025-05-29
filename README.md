@@ -2,7 +2,7 @@
 
 # Objetivo
 
-Aprofundar o conhecimento do Databricks AutoML, incluindo:
+Aprofundar o conhecimento e executar exercícios práticos com **Databricks AutoML**, incluindo:
 - Análise exploratória de dados
 - Preparação dos dados
 - Treinamento de modelos com AutoML
